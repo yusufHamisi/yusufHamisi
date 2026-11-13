@@ -1,18 +1,19 @@
-Hi, I’m Yusuf Seif Hamisi 👋
+Hi, I’m YUSUFU SEIPH HAMISI
 
-Full-Stack Software Engineer | Computer Science Student at UDSM
+Full-Stack Software Engineer 
+Computer Science Student at UDSM
 
 I’m a Computer Science student at the University of Dar es Salaam, passionate about designing and developing practical software solutions.
 
 I enjoy working across the frontend and backend, turning ideas into functional applications and continuously improving my software engineering skills.
 
-🚀 What I’m Working On
+What I’m Working On
 
 * Building KamatiHub, a committee and event management platform.
 * Developing REST APIs and database-driven applications.
-* Improving my skills in software architecture, authentication and full-stack development.
+* Improving my skills in software architecture, authentication and fullstack development.
 
-🛠️ Technologies & Tools
+Technologies & Tools
 
 Frontend
 
@@ -40,15 +41,15 @@ Tools
 * Visual Studio Code
 * Postman
 
-💻 Featured Project
+ Featured Project
 
-KamatiHub — In Development
+KamatiHub  In Development
 
 A web-based committee management platform designed to help committees organize events, manage members, coordinate tasks and track funds.
 
 Tech stack: React, TypeScript, Tailwind CSS, Django REST Framework and SQLite.
 
-🎯 Current Focus
+Current Focus
 
 * Full-stack application development
 * Backend engineering and API development
@@ -56,11 +57,11 @@ Tech stack: React, TypeScript, Tailwind CSS, Django REST Framework and SQLite.
 * Software engineering best practices
 * Building useful, scalable software solutions
 
-🎓 Education
+Education
 
 University of Dar es Salaam (UDSM)
 Bachelor of Science in Computer Science
 
-⸻
+
 
 Building, learning and improving — one project at a time.
