@@ -1,67 +1,60 @@
-Hi, I’m YUSUFU SEIPH HAMISI
+ Hi, I’m YUSUFU SEIPH HAMISI 
 
 Full-Stack Software Engineer 
 Computer Science Student at UDSM
 
-I’m a Computer Science student at the University of Dar es Salaam, passionate about designing and developing practical software solutions.
+I build web applications that solve practical problems, working across frontend development, backend engineering and database design.
 
-I enjoy working across the frontend and backend, turning ideas into functional applications and continuously improving my software engineering skills.
+I’m passionate about transforming ideas into reliable, user friendly software and continuously improving my engineering skills.
 
-What I’m Working On
 
-* Building KamatiHub, a committee and event management platform.
-* Developing REST APIs and database-driven applications.
-* Improving my skills in software architecture, authentication and fullstack development.
+About Me
 
-Technologies & Tools
+* Computer Science student at the University of Dar es Salaam.
+*  Interested in full-stack software development.
+* Currently developing real-world applications using React and Django.
+* Interested in software architecture, APIs and database systems.
+* Focused on building practical, maintainable software solutions.
 
-Frontend
+Technical Skills
 
-* React
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* HTML & CSS
+Frontend Development
 
-Backend
+React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
-* Python
-* Django
-* Django REST Framework
-* REST APIs
+Backend Development
+
+Python · Django · Django REST Framework · REST APIs
 
 Databases
 
-* SQLite
-* SQL
+SQL · SQLite
 
-Tools
+Development Tools
 
-* Git & GitHub
-* Visual Studio Code
-* Postman
+Git · GitHub · VS Code · Postman
 
- Featured Project
+What I’m Building
 
-KamatiHub  In Development
+KamatiHub
 
-A web-based committee management platform designed to help committees organize events, manage members, coordinate tasks and track funds.
+A committee and event management platform designed to simplify event organization, member management, task coordination and financial tracking.
 
-Tech stack: React, TypeScript, Tailwind CSS, Django REST Framework and SQLite.
+Currently in development.
 
-Current Focus
+My Engineering Interests
 
-* Full-stack application development
-* Backend engineering and API development
-* Database design and management
-* Software engineering best practices
-* Building useful, scalable software solutions
+* Full-Stack Web Development
+* Backend Engineering
+* API Design and Integration
+* Database Design
+* Software Architecture
 
-Education
+Let’s Connect
 
-University of Dar es Salaam (UDSM)
-Bachelor of Science in Computer Science
+I’m interested in connecting with developers, collaborating on meaningful projects and learning from the software engineering community.
+
+Dar es Salaam, Tanzania
 
 
-
-Building, learning and improving — one project at a time.
+Building with purpose. Learning continuously. Engineering solutions.
